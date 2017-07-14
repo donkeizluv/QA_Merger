@@ -1,0 +1,6 @@
+bin/
+obj/
+.vs/
+Release/
+Res/
+packages/
