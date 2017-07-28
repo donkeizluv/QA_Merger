@@ -12,6 +12,7 @@ namespace QA_ReportMergerConsole
 {
     internal partial class Program
     {
+		//test
         //configurable
         private static int randomReportTake = 5;
         private static int conversationLen = 30;
